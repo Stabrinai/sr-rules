@@ -1,3 +1,0 @@
-payload:
-  - '+.zkk78.com'
-  - '+.agemys.net'
