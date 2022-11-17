@@ -1,3 +1,4 @@
 payload:
   - '+.zkk78.com'
   - '+.agemys.net'
+  - '+.efcloud.cc'
