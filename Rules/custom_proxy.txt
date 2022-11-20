@@ -15,3 +15,4 @@ payload:
   - '+.hoyoverse.com'
   - '+.autopatchhk.yuanshen.com'
   - '+.overseauspider.yuanshen.com'
+  - '+.dispatchosglobal.yuanshen.com'
