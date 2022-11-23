@@ -2,4 +2,5 @@ payload:
   - '+.zkk78.com'
   - '+.agemys.net'
   - '+.efcloud.cc'
+  - '+.shankuwang.com'
   - '23.225.63.61/16'
