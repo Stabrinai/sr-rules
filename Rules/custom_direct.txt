@@ -4,3 +4,4 @@ payload:
   - '+.efcloud.cc'
   - '+.shankuwang.com'
   - '23.225.63.61/16'
+  - '+.yemu.xyz'
