@@ -6,3 +6,4 @@ payload:
   - '23.225.63.61/16'
   - '+.yemu.xyz'
   - '+.bozrc.com'
+  - '+.microsoft.com'
