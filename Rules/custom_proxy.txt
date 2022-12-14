@@ -17,3 +17,4 @@ payload:
   - '+.overseauspider.yuanshen.com'
   - '+.dispatchosglobal.yuanshen.com'
   - '+.mangafuna.xyz'
+  - '+.youtube.com'
